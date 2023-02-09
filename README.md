@@ -3,6 +3,7 @@
 Site de Dorian M
 
 Créer un site web simple en Javascript qui aura comme fonction de :
+
 ● Proposer une page web formulaire pour chaque algorithme de hashage/chiffrement,
 ● L’utilisateur doit pouvoir entrer un texte dans une input box, ou un fichier dans un
 formulaire,
